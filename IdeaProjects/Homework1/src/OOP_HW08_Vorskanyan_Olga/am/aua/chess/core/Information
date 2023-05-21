@@ -1,0 +1,13 @@
+Classes        Mutable/Immutable
+Main           Immutable
+Chess          Immutable
+Position       Mutable (we have mutators here)
+ChessConsole   Immutable
+Move           Immutable
+Knight         Immutable
+King           Immutable
+Queen          Immutable
+Bishop         Immutable
+Piece          Immutable
+Pawn           Immutable
+Rook           Immutable
